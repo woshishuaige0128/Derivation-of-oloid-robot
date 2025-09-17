@@ -1,0 +1,1 @@
+This code implements the complete dynamic analysis of oloid robots with rolling locomotion, including geometric modeling, kinematic analysis, and derivation of equations of motion using Lagrangian formulation.
